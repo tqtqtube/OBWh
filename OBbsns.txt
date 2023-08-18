@@ -1,1 +1,1 @@
-111
+{'ver1':'3', 'ver2':'0', 'ver3':'\n•[تحديث قاعدة]واتساب إلى 2.23.14.77\n•[إضافة]شكل جديد لمظهر واتساب اعمال الاجهزه\n•[إضافة]ميزة تسجيل فيديو مثل التلجرام من زر تسجيل صوت\n•[اصلاح]مشكلة الانهيار عند تحديث التطبيق في بعض الاجهزه\n•[مزيد]إصلاحات وتحسينات أخرى\n•[Base]Updated 2.23.14.77\n•[Added]New Style for WA Business\n•[Added]Video recording feature like telegram from the voice recording button\n•[Misc]Other fixes and improvements\n' , 'dli':'https://bit.ly/44fF5wU'}
